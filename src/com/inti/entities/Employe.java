@@ -8,6 +8,7 @@ private Long code;
 private String nom;
 private String prenom;
 private String  dateNaissance;
+private int age;
 
 
 @Override
