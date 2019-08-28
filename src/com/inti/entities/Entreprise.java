@@ -7,6 +7,7 @@ public class Entreprise {
 	}
 private long code ;
 private String libelle ;
+private String nom ; 
 public Entreprise(long code, String libelle) {
 	super();
 	this.code = code;
