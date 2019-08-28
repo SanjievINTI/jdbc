@@ -5,6 +5,7 @@ import java.sql.Date;
 public class Cadre extends Employe {
 	
 	private String specialite;
+	private String office;
 
 	public Cadre(String specialite) {
 		super();

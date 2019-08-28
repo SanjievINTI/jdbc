@@ -7,6 +7,7 @@ private long id;
 private String nom;
 private String description;
 private int nbrEmploye;
+private String code;
 public Departement(long id, String nom, String description, int nbrEmploye) {
 	super();
 	this.id = id;
